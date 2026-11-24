@@ -1,0 +1,10 @@
+# Only the live site goes to GitHub; drafts, demos and screenshots stay local
+artifact.html
+demo-fony.html
+demo-video.html
+primer-video.html
+skrinshoty/
+ССЫЛКА.txt
+assets/club-hero.jpg
+assets/club-logo-gold.svg
+assets/nav-logo.svg
